@@ -1,2 +1,2 @@
-# html-portfolio
-My first portfolio website by only using HTML.
+# html-site
+ website by only using HTML.
